@@ -1,0 +1,9 @@
+
+Array Analyzer Summary
+
+Input File Name: Numbers.txt
+Total Elements: 1000
+Integer Maximum: 300
+Integer Minimum:  -858993460
+Average: 147456
+Median: 225
